@@ -9,26 +9,26 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "ABOUT"
+  url = "about"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "RESEARCH GROUP"
   url = "people"
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "PUBLICATIONS"
+  url = "publication"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "PROJECTS"
+  url = "project"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact"
+  name = "NEWS"
+  url = "news"
   weight = 60
